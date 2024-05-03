@@ -95,4 +95,4 @@ Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual C
 ---
 
 ## Fun Fact
-- Love my dogs and frustated soccer player.
+- Love my dogs and with high expectations to be a good soccer player.
