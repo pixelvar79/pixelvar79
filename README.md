@@ -1,31 +1,30 @@
-### Hi there 👋 I'm Sebastian a Researcher and Web Developer working in the intersection of science, machine learning, and sensor technology. 
-
-### John Doe, PhD
+### Sebastian Varela, PhD
 
 🔬 Postdoctoral Researcher at University of Research
 
-📧 john.doe@email.com | 🌐 [Personal Website](https://www.johndoe.com) | 📚 [Google Scholar](https://scholar.google.com/citations?user=your-google-scholar-id)
+📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
 
 ---
 
 ## Research Interests
-- Plant genomics
-- Bioinformatics
-- Machine learning in biology
+- Artificial Intelligence in Agriculture
+- Remote Sensing
+- Sensor
+- Automation, Apps Development in Agriculture
 
 ---
 
 ## Education
-- PhD in Plant Biology, University of Science, 20XX
-- MSc in Bioinformatics, University of Technology, 20XX
-- BSc in Biology, University of Science, 20XX
+- Web Developer, Digital House, Argentina
+- PhD in Agronomy and Remote Sensing, Kansas State University
+- BSc in Agronomy, University of the Republic, Uruguay
 
 ---
 
 ## Publications
 
 ### Journal Articles
-1. Doe, J., & Smith, A. (20XX). *Title of Your Paper*. Journal of Plant Biology. [![DOI](https://img.shields.io/badge/DOI-10.0000/0000-blue)](https://doi.org/10.0000/0000) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/paper1.pdf)
+1. Varela, S.; Dhodda, P.R.; Hsu, W.H.; Prasad, P.V.V.; Assefa, Y.; Peralta, N.R.; Griffin, T.; Sharda, A.; Ferguson, A.; Ciampitti, I.A. (2017). *Early-Season Stand Count Determination in Corn via Integration of Imagery from Unmanned Aerial Systems (UAS) and Supervised Learning Techniques*. Journal of Plant Biology. [![DOI]([https://img.shields.io/badge/DOI-10.0000/0000-blue](https://doi.org/10.0000/0000](https://doi.org/10.3390/rs10020343)))]([) 
 
    ![Image](https://placeimg.com/200/150/nature) 
 
@@ -66,19 +65,24 @@
 ---
 
 ## Awards and Honors
-- Any academic or professional awards you have received.
+- AFulbrigth Scholar
 
 ---
 
 ## Languages and Technologies
-- Programming languages, tools, and technologies you are proficient in.
+- Python
+- Tensorflow
+- Cloud Computing: AWS, GC
+- SQL, Web Development
 
 ---
 
 ## Professional Memberships
-- List of professional organizations or societies you are a member of.
+- Association for the Advancement of Artificial Intelligence
+- American Society for Photogrammetry and Remote Sensing
+- American Society of Agronomy
 
 ---
 
 ## Fun Fact
-- Share a fun fact or personal interest.
+- Love my dogs and soccer.
