@@ -37,10 +37,27 @@
 
    </p>
 
-4. Smith, A., & Doe, J. (20XX). *Another Title*. Journal of Bioinformatics. [![DOI](https://img.shields.io/badge/DOI-10.0000/0001-blue)](https://doi.org/10.0000/0001) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-10-00343-v2.pdf)
+3. Varela, S.; Pederson, T.; Bernacchi, C.; Leakey, A. (2021). *Understanding Growth Dynamics and Yield Prediction of Sorghum Using High Temporal Resolution UAV Imagery Time Series and Machine Learning*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs13091763-blue)](https://doi.org/10.3390/rs13091763) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-13-01763-v2.pdf)
 
-   ![Image](https://placeimg.com/200/150/arch) 
+   <p align="center">
+   <img src="papers/Screenshot 2024-05-03 131851.png" width="200" height="200">
 
+    </p>
+
+4. Varela, S.; Pederson, T.; Bernacchi, C.; Leakey, A. (2021). *Understanding Growth Dynamics and Yield Prediction of Sorghum Using High Temporal Resolution UAV Imagery Time Series and Machine Learning*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs13091763-blue)](https://doi.org/10.3390/rs13091763) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-13-01763-v2.pdf)
+
+   <p align="center">
+   <img src="papers/Screenshot 2024-05-03 131851.png" width="200" height="200">
+
+    </p>
+5. Varela, S.; Pederson, T.; Bernacchi, C.; Leakey, A. (2021). *Understanding Growth Dynamics and Yield Prediction of Sorghum Using High Temporal Resolution UAV Imagery Time Series and Machine Learning*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs13091763-blue)](https://doi.org/10.3390/rs13091763) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-13-01763-v2.pdf)
+
+   <p align="center">
+   <img src="papers/Screenshot 2024-05-03 131851.png" width="200" height="200">
+
+    </p>
+
+    
 ### Conference Proceedings
 1. Doe, J., & Johnson, B. (20XX). *Conference Title*. Proceedings of the Conference. [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/proceedings1.pdf)
 
