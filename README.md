@@ -94,7 +94,7 @@ ON-GOING WORK:
 More recently, I realized the importance of finding new solutions to the key bottleneck of deep learning models requiring large annotated datasets to learn from. My current work on this topic includes:
    1.	development of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.       This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has been    achieved in partnership with an undergraduate in the UIUC double major program in Computer Science + Crop Science. I mentored him through winning a summer research fellowship form the American Society for Plant Biologists, completing his thesis research, and getting an internship at Corteva.
 
-- **Project Name:** A Spatiotemporal and Multitask Convolutional Neural Network Approach to Phenotype Key Miscanthus Traits using High Spatial Resolution UAV Imagery. [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
+- **Project Name:** A Multi-trait learning strategy to Phenotype Key Miscanthus Traits using High Spatial Resolution UAV Imagery. [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
 
 <p align="center">
    <img src="papers/Screenshot 2024-05-03 073833.png" width="400" height="300">
