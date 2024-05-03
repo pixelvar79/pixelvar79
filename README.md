@@ -1,6 +1,6 @@
 ### Sebastian Varela, PhD
 
-🔬 Postdoctoral Researcher at University of Research
+🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation, University of Illinois, Urbana-Champaign 
 
 📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
 
