@@ -62,7 +62,7 @@
     
 ### Most Recent Conference Participations
 Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual Conference (2023). Danforth Center, St Louis, USA. Convolutional neural networks and generative and adversarial networks exploit high-spatial- and -temporal-resolution aerial imagery to phenotype key traits in Miscanthus. . [![PDF]<p align="center">
-   <img src="papers/WhatsApp Image 2024-05-03 at 14.14.31.jpg" width="200" height="140">
+   <img src="papers/WhatsApp Image 2024-05-03 at 14.14.31.jpeg" width="200" height="140">
    
 
 ---
