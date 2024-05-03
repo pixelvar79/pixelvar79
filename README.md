@@ -15,7 +15,7 @@
 ---
 
 ## Education
-- Web Developer
+- Web Developer (2023-25)
 - PhD in Agronomy and Remote Sensing, Kansas State University
 - BSc in Soil and Crop Sciences, University of the Republic, Uruguay
 
