@@ -49,13 +49,13 @@
 4. Varela, S.; Pederson, T.; Leakey, A. (2022). *Implementing Spatio-Temporal 3D-Convolution Neural Networks and UAV Time Series Imagery to Better Predict Lodging Damage in Sorghum*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs14030733-blue)](https://doi.org/10.3390/rs14030733) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-14-00733-v2.pdf)
 
    <p align="center">
-   <img src="papers/Screenshot 2024-05-03 140110.png" width="200" height="200">
+   <img src="papers/Screenshot 2024-05-03 140110.png" width="200" height="160">
 
     </p>
 5. Varela, S.; Zheng, X.; Njuguna, J.; Sacks, E.; Allen, D.; Ruhter, J.; Leakey, A.  (2022). *Deep Convolutional Neural Networks Exploit High-Spatial- and -Temporal-Resolution Aerial Imagery to Phenotype Key Traits in Miscanthus*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs14215333-blue)](https://doi.org/10.3390/rs14215333) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-14-05333.pdf)
 
    <p align="center">
-   <img src="papers/Screenshot 2024-05-03 140701.png" width="200" height="200">
+   <img src="papers/Screenshot 2024-05-03 140701.png" width="200" height="160">
 
     </p>
 
