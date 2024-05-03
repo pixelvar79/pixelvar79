@@ -60,14 +60,10 @@
     </p>
 
     
-### Conference Proceedings
-1. Doe, J., & Johnson, B. (20XX). *Conference Title*. Proceedings of the Conference. [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/proceedings1.pdf)
-
-   ![Image](https://placeimg.com/200/150/people) 
-
-2. Johnson, B., & Doe, J. (20XX). *Another Conference Title*. Proceedings of the Conference. [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/proceedings2.pdf)
-
-   ![Image](https://placeimg.com/200/150/tech) 
+### Most Recent Conference Participations
+Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual Conference (2023). Danforth Center, St Louis, USA. Convolutional neural networks and generative and adversarial networks exploit high-spatial- and -temporal-resolution aerial imagery to phenotype key traits in Miscanthus. . [![PDF]<p align="center">
+   <img src="papers/WhatsApp Image 2024-05-03 at 14.14.31.jpg" width="200" height="140">
+   
 
 ---
 
