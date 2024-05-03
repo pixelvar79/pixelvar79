@@ -1,6 +1,6 @@
 ### Sebastian Varela, PhD
 
-🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation, University of Illinois, Urbana-Champaign 
+🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation, University of Illinois Urbana-Champaign 
 
 📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
 
@@ -15,7 +15,7 @@
 ---
 
 ## Education
-- Web Developer, Digital House, Argentina
+- Web Developer
 - PhD in Agronomy and Remote Sensing, Kansas State University
 - BSc in Agronomy, University of the Republic, Uruguay
 
