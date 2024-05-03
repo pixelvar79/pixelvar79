@@ -1,8 +1,25 @@
 ### Sebastian Varela, PhD
 
 🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation, University of Illinois Urbana-Champaign 
-
 📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
+
+In a world increasingly dominated by data footprints, agriculture researchers can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
+them with field-level measurements to address questions that were seemingly impossible to answer only a short time ago. Research that integrates sensors, data-intensive analysis, and Artificial Intelligence (AI) 
+while being driven by sound principles of plant and soil science are key to advancing agricultural science.
+
+My passion for research is driven by a scientific curiosity on how large data silos can be turned into streams of biological insights. My research program will begin with in-depth investigations of two major 
+topics: 
+
+   1) novel AI to leverage scientific discovery,
+   
+   2) automation to reduce data silos and accelerate research cycles.
+
+
+Direction 1 - Novel AI to leverage scientific discovery,
+
+SIGNIFICANCE:
+Disciplines such as biology, remote sensing, computer science, and advanced sensing technologies, are converging to tackle pressing challenges in agriculture. Vegetation Indices (VIs), are mathematical formulas that utilize the reflectance values of different wavelengths of light from remote sensors. These indices have been extremely efficient as a means to assess properties of crops, such as their health, density, or cover. The increasing spatial, temporal, and spectral resolution of sensors, along with cloud computational processing, all enhance our ability to supply more detailed sensor data to models. However, our capacity to manually supervise and automate (e.g., explicit parameterization, color thresholding, feature engineering, and selection of the best VIs, etc.) these processes is increasingly limiting.  In addition, most advances in remote sensing of agriculture have relied on the fully supervised learning paradigm, which demands large amounts of labeled data for training. Acquiring such data can be costly and time-consuming, especially for complex tasks, and models trained under this paradigm may exhibit limited generalization, scalability, and domain adaptation. To address these challenges, computer science research is currently very active and prolific in topics such as self and semi-supervised learning, as well as new paradigms like 'zero-shot' learning. These advancements offer unprecedented opportunities to bridge gaps in the biology domain. However, achieving this requires permanent collaboration across disciplines, as well as rigorous testing to assess the transferability and adaptability of new techniques. My work addresses this technical and research need while maintaining a clear focus on the ultimate goal of accelerating agricultural research and the benefits it delivers to society.
+
 
 ---
 
@@ -45,9 +62,6 @@ Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual C
 <p align="center">
    <img src="papers/WhatsApp Image 2024-05-03 at 14.14.31.jpeg" width="300" height="200">
 
-   
-
-   
 ---
 
 ## On-going Projects
@@ -59,18 +73,8 @@ Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual C
 
 ---
 
-## Research Contributions
+## Research Direction
 - Open-source tools or datasets you have contributed to.
-
----
-
-## Recent Talks
-- List of recent conference presentations or invited talks.
-
----
-
-## Courses Taught
-- List of courses you have taught or are currently teaching.
 
 ---
 
