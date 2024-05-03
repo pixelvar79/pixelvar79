@@ -28,7 +28,7 @@
 
    ![Image](https://placeimg.com/200/150/nature) 
 
-2. Smith, A., & Doe, J. (20XX). *Another Title*. Journal of Bioinformatics. [![DOI](https://img.shields.io/badge/DOI-10.0000/0001-blue)](https://doi.org/10.0000/0001) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/paper2.pdf)
+2. Smith, A., & Doe, J. (20XX). *Another Title*. Journal of Bioinformatics. [![DOI](https://img.shields.io/badge/DOI-10.0000/0001-blue)](https://doi.org/10.0000/0001) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](papers/remotesensing-10-00343-v2.pdf)
 
    ![Image](https://placeimg.com/200/150/arch) 
 
