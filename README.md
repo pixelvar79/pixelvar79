@@ -59,7 +59,7 @@ topics:
    2) automation to reduce data silos and accelerate research cycles.
 
 
-Direction 1 - Novel AI to leverage scientific discovery,
+*Direction 1 - Novel AI to leverage scientific discovery,*
 
 SIGNIFICANCE:
 
@@ -107,8 +107,32 @@ FUTURE:
 
 - **Project Name:** Description of the project. [Link to Repository](https://github.com/pixelvar79/project)
 
-- 
----
+
+*Direction 2 - Automation to reduce data silos and accelerate research cycles,*
+
+SIGNIFICANCE:
+
+Agricultural research is entering a new era characterized by three key aspects: massive data volumes, diverse data sources, and complex structures. This transition is closely linked to the widespread adoption of new information technologies, including sensors, cloud storage and computing, and AI. With the widespread adoption of sensors, data collection has transitioned from manual to automated acquisition, encompassing a range of devices from cellphones to satellites. This shift has been accelerated by advances on developing massive data storage and processing capabilities in the cloud, enabling efficient data management. Sensors can collect data continuously and in real-time and across large areas, and their use can reduce the need for labor-intensive data collection processes. While our capacity to use sensors and store data has grown exponentially, challenges have emerged in our ability to turn these data silos into streams of actionable biological insights. To succeed in this new data-driven era, automation and scalable analytics will play a relevant role in accelerating science. However, solutions must be developed to bridge these gaps.
+
+FOUNDATION: 
+
+During my time at CABBI, I realized the importance of transforming static data silos into actionable streams of biological insights. Achieving success in this endeavor required a diverse set of technical skills and a continuous learning mindset spanning multiple disciplines, which was made possible by collaborating with colleagues from various professional backgrounds. I often found myself eager to connect disparate components of a system, including data silos, biological questions that could be answered, missing parts, and strategizing on how to implement the operational solution (i.e., scripting). 
+One on-going project I lead in this area focuses on reducing information gaps by implementing a regional network for monitoring bioenergy field trials utilizing UAS. I have developed automated processing tools to reduce data latency and extract biological insights for decision-making in breeding programs. The tools enable the semi-automatic processing and extraction of spectral and photogrammetric features from aerial images captured from hundreds of flights at four locations in Central and South-East US (figure below). This collaborative effort involves research groups from the University of Illinois Urbana-Champaign, Mississippi State University, Alabama A&M University, and USDA-Louisiana. The project progresses through key stages to ensure automation: 1) selection of a suitable UAS platform, 2) easy data upload to a central server at the Institute for Genomic Biology at the University of Illinois Urbana-Champaign, 3) semi-automated processing and co-registration of images from successive flights, and 4) automated generation of image chips and extraction of temporal trajectories at the genotype and plot levels. Initial results indicate distinctive temporal trajectories for the same genetic materials across locations, suggesting the potential use of aerial imagery to anticipate decisions, reduce costs, and understand genotype-by-environment interactions in breeding programs. 
+
+<p align="center">
+   <img src="papers/Picture4.jpg" width="400" height="300">
+</p>
+
+Another project where I am facilitating a transition from use of traditional approaches into modern data science approaches involves agroecosystem modelers in CABBI. This project aims to identify optimal sample locations for monitoring below-above resource allocation in plants in farm fields, with the end goal of improving agroecosystem models parametrization and long-term indicators of sustainability in these systems (figure below). Traditionally, locations selection for sampling has relied on random distributions in fields. While this represents a practical and simplified solution, it may not consider the spatial variability in factors such as topography and soil characteristics that influence plant allocation across the landscape, which can then bias parameters in models and sustainability metrics across the landscape. I overcame this limitation by developing an automated pipeline that exploits cloud storage services of satellite imagery such as Google Earth Engine (GEE) and Planet. Instead of the traditional GEE Javascript Web Interface, I used the GEE Python API, reducing manual supervision and accelerating automation. Users are only required to provide inputs such as field boundaries, satellite processing level, date range, and cloud cover. The pipeline: (1) generates a vegetation index at the pixel level for each farm field, (2) determines inter-year above-ground productivity stability and (3) groups pixels in to subfield areas of similar crop function, as shown in the previous figure. Sampling can then be targeted to most efficiently capture the heterogeneity across and within fields. This approach was used to plan sampling of soil carbon across commercial plantings of Miscanthus this spring.
+
+<p align="center">
+   <img src="papers/Picture5.jpg" width="400" height="300">
+</p>
+
+FUTURE:
+
+I propose to further develop methods for multiscale integration of analytical pipelines to assist agroecosystem and breeding studies. For example, just in the context of the wider CABBI project, there is an opportunity to integrate above- and below-ground phenotyping using minirhizotrons, UAS, and satellite imagery. Doing so would allow an unparalleled, holistic assessment of crop performance at-scale. Satellite imagery can be used as a cost-effective tool to model the underlying spatial gradient needed to disentangle genotype x environmental interactions. UAS can more strongly contribute to this when fine-grained spatial resolution is needed to determine particular traits (i.e., plant counting, flowering time detection, early plant disease symptoms). Since the field deployment and data collection of minirhizotron imagery is still costly, the placement of the minirhizotron tubes can be quantitatively assessed to deliver the greatest return on investment when linking understanding of above- and below-ground growth. 
+
 
 ## Research Direction
 - Open-source tools or datasets you have contributed to.
