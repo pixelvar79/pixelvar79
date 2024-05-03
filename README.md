@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Sebastian a Researcher and Web Developer working in the intersection of science, machine learning, and sensor technology. 
 
-<!--
-# John Doe, PhD
+### John Doe, PhD
 
 🔬 Postdoctoral Researcher at University of Research
 
