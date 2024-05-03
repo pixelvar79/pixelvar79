@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sebastian a Researcher and Web Developer working in the intersection of science, machine learning, and technology. 
+### Hi there 👋 I'm Sebastian a Researcher and Web Developer working in the intersection of science, machine learning, and sensor technology. 
 
 <!--
 **pixelvar79/pixelvar79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
