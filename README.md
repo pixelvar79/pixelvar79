@@ -83,6 +83,8 @@ During my time as a Postdoctoral Researcher and independent researcher at the Ce
 
 I started by investigating the growth dynamics of sorghum using a traditional remote sensing and feature extraction approaches to the analysis [1]. This was practically useful, but highlighted to me how manual supervision of some steps in the process was a bottleneck. To address these issues, I explored Convolutional Neural Networks (CNNs) [2][3] as an alternative approach that offered several advantages, such as minimizing the need for manual feature engineering and efficiently exploiting the temporal dimension of image time series data to analyze crop traits. The method supported both classification tasks (e.g. lodging detection) and regression problems (e.g. assessing lodging severity, flowering time, and yield prediction) in sorghum and miscanthus bioenergy crops, as shown in the left side figure extracted from one of the publications. The most significant and novel finding was that the efficacy of Unmanned Aerial Systems (UAS)-based remote sensing in rapidly and non-destructively assessing large-scale genetic variation in key traits was enhanced by utilizing a spatiotemporal CNN architecture compared to traditional time-point CNN architectures.	 
 
+- **Project Name:** Implementing Spatio-Temporal 3D-Convolution Neural Networks and UAV Time Series Imagery to Better Predict Lodging Damage in Sorghum. [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
+
 <p align="center">
    <img src="papers/paper1.jpg" width="400" height="400">
 </p>
