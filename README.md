@@ -70,7 +70,7 @@ Disciplines such as biology, remote sensing, computer science, and advanced sens
 During my time as a Postdoctoral Researcher and independent researcher at the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), I have developed a number of new capabilities for phenotyping genetically diverse populations of emerging bioenergy crops [3][4][5]. I started by investigating the growth dynamics of sorghum using a traditional remote sensing and feature extraction approaches to the analysis [1]. This was practically useful, but highlighted to me how manual supervision of some steps in the process was a bottleneck. To address these issues, I explored Convolutional Neural Networks (CNNs) [2][3] as an alternative approach that offered several advantages, such as minimizing the need for manual feature engineering and efficiently exploiting the temporal dimension of image time series data to analyze crop traits. The method supported both classification tasks (e.g. lodging detection) and regression problems (e.g. assessing lodging severity, flowering time, and yield prediction) in sorghum and miscanthus bioenergy crops, as shown in the left side figure extracted from one of the publications. The most significant and novel finding was that the efficacy of Unmanned Aerial Systems (UAS)-based remote sensing in rapidly and non-destructively assessing large-scale genetic variation in key traits was enhanced by utilizing a spatiotemporal CNN architecture compared to traditional time-point CNN architectures.	 
 
 <p align="center">
-   <img src="papers/paper1.jpeg" width="300" height="200">
+   <img src="papers/paper1.jpg" width="300" height="200">
 </p>
 
 ON-GOING WORK:
@@ -85,13 +85,13 @@ More recently, I realized the importance of finding new solutions to the key bot
 2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes.   Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the need for human labelling by months.
 
 <p align="center">
-   <img src="papers/paper2.jpeg" width="300" height="200">
+   <img src="papers/picture2.jpg" width="300" height="200">
 </p>
 
 3.	Development of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted from the manuscript. A provisional patent application on this work is currently being prepared.
     
 <p align="center">
-   <img src="papers/paper3.jpeg" width="300" height="200">
+   <img src="papers/picture3.jpg" width="300" height="200">
 </p>
 
 FUTURE:
