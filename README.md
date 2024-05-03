@@ -24,7 +24,7 @@
 ## Publications
 
 ### Journal Articles
-1. Varela, S.; Dhodda, P.R.; Hsu, W.H.; Prasad, P.V.V.; Assefa, Y.; Peralta, N.R.; Griffin, T.; Sharda, A.; Ferguson, A.; Ciampitti, I.A. (2017). *Early-Season Stand Count Determination in Corn via Integration of Imagery from Unmanned Aerial Systems (UAS) and Supervised Learning Techniques*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs10020343-blue)](https://doi.org/10.3390/rs10020343) [PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/paper2.pdf)
+1. Varela, S.; Dhodda, P.R.; Hsu, W.H.; Prasad, P.V.V.; Assefa, Y.; Peralta, N.R.; Griffin, T.; Sharda, A.; Ferguson, A.; Ciampitti, I.A. (2017). *Early-Season Stand Count Determination in Corn via Integration of Imagery from Unmanned Aerial Systems (UAS) and Supervised Learning Techniques*. Remote Sensing. [![DOI](https://img.shields.io/badge/DOI-10.3390/rs10020343-blue)](https://doi.org/10.3390/rs10020343) [![PDF](https://img.shields.io/badge/PDF-Download-orange)](https://www.yourwebsite.com/paper2.pdf)
 
    ![Image](https://placeimg.com/200/150/nature) 
 
