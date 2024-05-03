@@ -95,15 +95,15 @@ Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual C
 ---
 
 ## Awards and Honors
-- Fulbrigth Scholar (2014-16)
+- Fulbright Scholar (2014-16)
 
 ---
 
 ## Languages and Technologies
 - Python
 - Tensorflow
-- Cloud Computing: AWS, GC
-- SQL, Web Development
+- AWS, Google Cloud Services
+- Front and Back-end Developer
 
 ---
 
