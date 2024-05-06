@@ -83,7 +83,7 @@ During my time as a Postdoctoral Researcher and independent researcher at the Ce
 
 I started by investigating the growth dynamics of sorghum using a traditional remote sensing and feature extraction approaches to the analysis [1]. This was practically useful, but highlighted to me how manual supervision of some steps in the process was a bottleneck. To address these issues, I explored Convolutional Neural Networks (CNNs) [2][3] as an alternative approach that offered several advantages, such as minimizing the need for manual feature engineering and efficiently exploiting the temporal dimension of image time series data to analyze crop traits. The method supported both classification tasks (e.g. lodging detection) and regression problems (e.g. assessing lodging severity, flowering time, and yield prediction) in sorghum and miscanthus bioenergy crops, as shown in the left side figure extracted from one of the publications. The most significant and novel finding was that the efficacy of Unmanned Aerial Systems (UAS)-based remote sensing in rapidly and non-destructively assessing large-scale genetic variation in key traits was enhanced by utilizing a spatiotemporal CNN architecture compared to traditional time-point CNN architectures.	 
 
-- **Project Name:** Implementing Spatio-Temporal 3D-Convolution Neural Networks and UAV Time Series Imagery to Better Predict Lodging Damage in Sorghum. [Link to Repository](https://github.com/pixelvar79/SpatioTemporal-Lodging-)
+ [Link to Repository](https://github.com/pixelvar79/SpatioTemporal-Lodging-)
 
 <p align="center">
    <img src="papers/paper1.jpg" width="400" height="400">
@@ -94,7 +94,7 @@ ON-GOING WORK:
 More recently, I realized the importance of finding new solutions to the key bottleneck of deep learning models requiring large annotated datasets to learn from. My current work on this topic includes:
    1.	development of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.       This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has been    achieved in partnership with an undergraduate in the UIUC double major program in Computer Science + Crop Science. I mentored him through winning a summer research fellowship form the American Society for Plant Biologists, completing his thesis research, and getting an internship at Corteva.
 
-- **Project Name:** A Multi-trait learning strategy to Phenotype Key Miscanthus Traits using High Spatial Resolution UAV Imagery. [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
+     	[Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
 
 <p align="center">
    <img src="papers/Screenshot 2024-05-03 073833.png" width="400" height="300">
@@ -150,13 +150,15 @@ One on-going project I lead in this area focuses on reducing information gaps by
   Initial results indicate distinctive temporal trajectories for the same genetic materials across locations, suggesting the potential use of aerial imagery to anticipate decisions, reduce costs, and understand
   genotype-by-environment interactions in breeding programs.
 
-- **Project Name:** Implementing a regional network for automated monitoring of bioenergy crops using very high-spatial-resolution remote sensing. [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
+[Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
 <p align="center">
    <img src="papers/Picture4.jpg" width="400" height="300">
 </p>
 
 Another project where I am facilitating a transition from use of traditional approaches into modern data science approaches involves agroecosystem modelers in CABBI. This project aims to identify optimal sample locations for monitoring below-above resource allocation in plants in farm fields, with the end goal of improving agroecosystem models parametrization and long-term indicators of sustainability in these systems (figure below). Traditionally, locations selection for sampling has relied on random distributions in fields. While this represents a practical and simplified solution, it may not consider the spatial variability in factors such as topography and soil characteristics that influence plant allocation across the landscape, which can then bias parameters in models and sustainability metrics across the landscape. I overcame this limitation by developing an automated pipeline that exploits cloud storage services of satellite imagery such as Google Earth Engine (GEE) and Planet. Instead of the traditional GEE Javascript Web Interface, I used the GEE Python API, reducing manual supervision and accelerating automation. Users are only required to provide inputs such as field boundaries, satellite processing level, date range, and cloud cover. The pipeline: (1) generates a vegetation index at the pixel level for each farm field, (2) determines inter-year above-ground productivity stability and (3) groups pixels in to subfield areas of similar crop function, as shown in the previous figure. Sampling can then be targeted to most efficiently capture the heterogeneity across and within fields. This approach was used to plan sampling of soil carbon across commercial plantings of Miscanthus this spring.
+
+[Link to Repository](https://github.com/pixelvar79/CABBI_RS_GROUP)
 
 <p align="center">
    <img src="papers/Picture5.jpg" width="400" height="500">
