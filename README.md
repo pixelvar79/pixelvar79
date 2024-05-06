@@ -13,7 +13,7 @@ while being driven by sound principles of plant and soil science are key to adva
 
 - Artificial Intelligence in Agriculture
 - Remote Sensing
-- Sensor
+- Sensors
 - Automation, Apps Development in Agriculture
 
 ---
