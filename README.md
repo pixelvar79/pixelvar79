@@ -148,7 +148,9 @@ One on-going project I lead in this area focuses on reducing information gaps by
     
   3) semi-automated processing and co-registration of images from successive flights, and 4) automated generation of image chips and extraction of temporal trajectories at the genotype and plot levels.
   Initial results indicate distinctive temporal trajectories for the same genetic materials across locations, suggesting the potential use of aerial imagery to anticipate decisions, reduce costs, and understand
-  genotype-by-environment interactions in breeding programs. 
+  genotype-by-environment interactions in breeding programs.
+
+- **Project Name:** Implementing a regional network for automated monitoring of bioenergy crops using very high-spatial-resolution remote sensing. [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
 <p align="center">
    <img src="papers/Picture4.jpg" width="400" height="300">
