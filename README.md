@@ -87,8 +87,8 @@ I started by investigating the growth dynamics of sorghum using a traditional re
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="papers/20190824_102501.jpg" style="width: 400px; height: 400px;">
-    <img src="papers/paper1.jpg" style="width: 400px; height: 400px;">
+    <img src="papers/20190824_102501.jpg" style="width: 400px; height: 300px;">
+    <img src="papers/paper1.jpg" style="width: 400px; height: 300px;">
 </div>
 
 ON-GOING WORK:
@@ -106,8 +106,8 @@ More recently, I realized the importance of finding new solutions to the key bot
 
    2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious                  requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which        can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes. Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the       need for human labelling by months.
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="papers/Picture2.jpg" style="width: 400px; height: 400px;">
-    <img src="papers/IMG_0126.JPG" style="width: 400px; height: 400px;">
+    <img src="papers/Picture2.jpg" style="width: 400px; height: 300px;">
+    <img src="papers/IMG_0126.JPG" style="width: 400px; height: 300px;">
 </div>
 
 
