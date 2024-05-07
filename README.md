@@ -86,7 +86,7 @@ I started by investigating the growth dynamics of sorghum using a traditional re
  [Link to Repository](https://github.com/pixelvar79/SpatioTemporal-Lodging-)
 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="papers/paper1.jpg" style="width: 400px; height: 400px;margin-right: 60px;">
     <img src="papers/20190824_102501.jpg" style="width: 400px; height: 400px;">
 </div>
