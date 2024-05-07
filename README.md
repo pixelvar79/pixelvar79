@@ -3,7 +3,7 @@
 🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation (CABBI), University of Illinois Urbana-Champaign 
 
 <p align="center">
-  📧 <a sebavar79@gmail.com | 📚 href="https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ">Google Scholar</a>
+ <a 📧 sebavar79@gmail.com | 📚 href="https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ">Google Scholar</a>
 </p>
 
 In a world increasingly dominated by data footprints, agriculture researchers can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
