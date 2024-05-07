@@ -91,6 +91,7 @@ I started by investigating the growth dynamics of sorghum using a traditional re
     <img src="papers/paper1.jpg" style="width: 400px; height: 300px;">
 </div>
 
+
 ON-GOING WORK:
 
 More recently, I realized the importance of finding new solutions to the key bottleneck of deep learning models requiring large annotated datasets to learn from. My current work on this topic includes:
