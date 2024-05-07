@@ -87,8 +87,8 @@ I started by investigating the growth dynamics of sorghum using a traditional re
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="papers/20190824_102501.jpg" style="width: 200px; height: 140px;">
-    <img src="papers/paper1.jpg" style="width: 200px; height: 140px;">
+    <img src="papers/20190824_102501.jpg" style="width: 400px; height: 300px;">
+    <img src="papers/paper1.jpg" style="width: 400px; height: 300px;">
 </div>
 
 
@@ -107,8 +107,8 @@ More recently, I realized the importance of finding new solutions to the key bot
 
    2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery (bottom-left figure). The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very       laborious requirement when training a segmentation model (bottom-right figure). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation           model which can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes. Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This                       corresponds to reducing the need for human labelling by months.
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="papers/IMG_0126.JPG" style="width: 200px; height: 140px;">
-    <img src="papers/Picture2.jpg" style="width: 200px; height: 140px;">
+    <img src="papers/IMG_0126.JPG" style="width: 400px; height: 300px;">
+    <img src="papers/Picture2.jpg" style="width: 400px; height: 300px;">
 </div>
 
 
@@ -159,8 +159,8 @@ One on-going project I lead in this area focuses on reducing information gaps by
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="papers/Picture1.png" style="width: 200px; height: 140px;">
-    <img src="papers/Picture4.jpg" style="width: 200px; height: 140px;">
+    <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
+    <img src="papers/Picture4.jpg" style="width: 400px; height: 300px;">
 </div>
 
 Another project where I am facilitating a transition from use of traditional approaches into modern data science approaches involves agroecosystem modelers in CABBI. This project aims to identify optimal sample locations for monitoring below-above resource allocation in plants in farm fields, with the end goal of improving agroecosystem models parametrization and long-term indicators of sustainability in these systems (figure below). Traditionally, locations selection for sampling has relied on random distributions in fields. While this represents a practical and simplified solution, it may not consider the spatial variability in factors such as topography and soil characteristics that influence plant allocation across the landscape, which can then bias parameters in models and sustainability metrics across the landscape. I overcame this limitation by developing an automated pipeline that exploits cloud storage services of satellite imagery such as Google Earth Engine (GEE) and Planet. Instead of the traditional GEE Javascript Web Interface, I used the GEE Python API, reducing manual supervision and accelerating automation. Users are only required to provide inputs such as field boundaries, satellite processing level, date range, and cloud cover. The pipeline: (1) generates a vegetation index at the pixel level for each farm field, (2) determines inter-year above-ground productivity stability and (3) groups pixels in to subfield areas of similar crop function, as shown in the previous figure. Sampling can then be targeted to most efficiently capture the heterogeneity across and within fields. This approach was used to plan sampling of soil carbon across commercial plantings of Miscanthus this spring.
