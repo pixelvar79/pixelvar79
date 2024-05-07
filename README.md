@@ -1,6 +1,7 @@
 ### Sebastian Varela, Ph.D.
 
 🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation (CABBI), University of Illinois Urbana-Champaign 
+
 📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
 
 In a world increasingly dominated by data footprints, agriculture researchers can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
@@ -158,7 +159,7 @@ One on-going project I lead in this area focuses on reducing information gaps by
 
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 10 auto;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
     <img src="papers/Picture4.jpg" style="width: 400px; height: 300px;">
 </div>
