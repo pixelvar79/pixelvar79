@@ -95,7 +95,7 @@ ON-GOING WORK:
 
 More recently, I realized the importance of finding new solutions to the key bottleneck of deep learning models requiring large annotated datasets to learn from. My current work on this topic includes:
 
-   1.	Development of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.           This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has 
+   1.	Develop of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.               This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has 
       been achieved in partnership with an undergraduate in the UIUC double major program in Computer Science + Crop Science. I mentored him through winning a summer research fellowship form the American Society for Plant Biologists, completing his thesis research, and getting an internship at Corteva.
 
    [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
@@ -105,12 +105,13 @@ More recently, I realized the importance of finding new solutions to the key bot
 </p>
 
    2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious                  requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which        can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes. Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the       need for human labelling by months.
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="papers/Picture2.jpg" style="width: 400px; height: 400px;">
+        <img src="papers/IMG_0126.jpg" style="width: 400px; height: 400px;">
+    </div>
 
-<p align="center">
-   <img src="papers/Picture2.jpg" width="400" height="300">
-</p>
 
-   3.	Implementation of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning       strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted        from the manuscript. A provisional patent application on this work is currently being prepared.
+   3.	Implement of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning            strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted        from the manuscript. A provisional patent application on this work is currently being prepared.
     
 <p align="center">
    <img src="papers/Picture3.jpg" width="400" height="300">
