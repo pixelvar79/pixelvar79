@@ -175,10 +175,6 @@ FUTURE:
 
 I propose to further develop methods for multiscale integration of analytical pipelines to assist agroecosystem and breeding studies. For example, just in the context of the wider CABBI project, there is an opportunity to integrate above- and below-ground phenotyping using minirhizotrons, UAS, and satellite imagery. Doing so would allow an unparalleled, holistic assessment of crop performance at-scale. Satellite imagery can be used as a cost-effective tool to model the underlying spatial gradient needed to disentangle genotype x environmental interactions. UAS can more strongly contribute to this when fine-grained spatial resolution is needed to determine particular traits (i.e., plant counting, flowering time detection, early plant disease symptoms). Since the field deployment and data collection of minirhizotron imagery is still costly, the placement of the minirhizotron tubes can be quantitatively assessed to deliver the greatest return on investment when linking understanding of above- and below-ground growth. 
 
-
-## Research Direction
-- Open-source tools or datasets you have contributed to.
-
 ---
 
 ## Awards and Honors
