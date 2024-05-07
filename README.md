@@ -105,10 +105,10 @@ More recently, I realized the importance of finding new solutions to the key bot
 </p>
 
    2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious                  requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which        can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes. Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the       need for human labelling by months.
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="papers/Picture2.jpg" style="width: 400px; height: 400px;">
-        <img src="papers/IMG_0126.JPG" style="width: 400px; height: 400px;">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="papers/Picture2.jpg" style="width: 400px; height: 400px;">
+    <img src="papers/IMG_0126.JPG" style="width: 400px; height: 400px;">
+</div>
 
 
    3.	Implement of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning            strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted        from the manuscript. A provisional patent application on this work is currently being prepared.
