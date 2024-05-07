@@ -89,6 +89,7 @@ I started by investigating the growth dynamics of sorghum using a traditional re
 <div style="display: flex; justify-content: center;">
     <img src="papers/20190824_102501.jpg" style="width: 400px; height: 300px;">
     <img src="papers/paper1.jpg" style="width: 400px; height: 300px;">
+    <img src="papers/Screenshot 2024-05-07 132915.png" style="width: 400px; height: 300px;">
 </div>
 </p>
 
