@@ -61,7 +61,7 @@ Invited speaker at the NAPPN (North American Plant Phenotyping Network) Annual C
 </p>
 ---
 
-My passion for research is driven by a scientific curiosity on how large data silos can be turned into streams of biological insights. I'm interested in the in-depth investigations of two major 
+My passion for research is driven by a scientific curiosity on how large data silos can be turned into streams of biological insights. I'm currently interested in the in-depth investigations of two major 
 topics: 
 
    1) novel AI to leverage scientific discovery,
@@ -71,7 +71,7 @@ topics:
 
 *Direction 1 - Novel AI to leverage scientific discovery,*
 
-SIGNIFICANCE:
+SIGNIFICANCE: 
 
 Disciplines such as biology, remote sensing, computer science, and advanced sensing technologies, are converging to tackle pressing challenges in agriculture. The increasing spatial, temporal, and spectral resolution of sensors, along with cloud computational processing, all enhance our ability to supply more detailed sensor data to models. Our capacity to manually supervise and automate (e.g., explicit parameterization, color thresholding, feature engineering, and selection of the best VIs, etc.) these processes is increasingly limiting.  
 
@@ -79,9 +79,9 @@ In addition, most advances in remote sensing of agriculture have relied on the f
 
 These advancements offer unprecedented opportunities to bridge gaps in the biology domain. However, achieving this requires permanent collaboration across disciplines, as well as rigorous testing to assess the transferability and adaptability of new techniques. My work addresses this technical and research need while maintaining a clear focus on the ultimate goal of accelerating agricultural research and the benefits it delivers to society.
 
-During my time as a Postdoctoral Researcher and independent researcher at the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), I have developed a number of new capabilities for phenotyping genetically diverse populations of emerging bioenergy crops [3][4][5]. 
+During my time as a Postdoctoral Researcher and Independent Researcher at CABBI, I have developed a number of new capabilities for phenotyping genetically diverse populations of emerging bioenergy crops [3][4][5]. 
 
-I started by investigating the growth dynamics of sorghum using a traditional remote sensing and feature extraction approaches to the analysis [1]. This was practically useful, but highlighted to me how manual supervision of some steps in the process was a bottleneck. To address these issues, I explored Convolutional Neural Networks (CNNs) [2][3] as an alternative approach that offered several advantages, such as minimizing the need for manual feature engineering and efficiently exploiting the temporal dimension of image time series data to analyze crop traits. The method supported both classification tasks (e.g. lodging detection) and regression problems (e.g. assessing lodging severity, flowering time, and yield prediction) in sorghum and miscanthus bioenergy crops, as shown in the left side figure extracted from one of the publications. The most significant and novel finding was that the efficacy of Unmanned Aerial Systems (UAS)-based remote sensing in rapidly and non-destructively assessing large-scale genetic variation in key traits was enhanced by utilizing a spatiotemporal CNN architecture compared to traditional time-point CNN architectures.	 
+I started by investigating the growth dynamics of sorghum using a traditional remote sensing and feature extraction approaches to the analysis [1]. This was practically useful, but highlighted to me how manual supervision of some steps in the process was a bottleneck. To address these issues, I explored Convolutional Neural Networks (CNNs) [2][3] as an alternative approach that offered several advantages, such as minimizing the need for manual feature engineering and efficiently exploiting the temporal dimension of image time series data to analyze crop traits. The method supported both classification tasks (e.g. lodging detection) and regression problems (e.g. assessing lodging severity, flowering time, and yield prediction) in sorghum and miscanthus bioenergy crops, as shown in the figure below extracted from one of the publications. The most significant and novel finding was that the efficacy of Unmanned Aerial Systems (UAS)-based remote sensing in rapidly and non-destructively assessing large-scale genetic variation in key traits was enhanced by utilizing a spatiotemporal CNN architecture compared to traditional time-point CNN architectures.	 
 
  [Link to Repository](https://github.com/pixelvar79/SpatioTemporal-Lodging-)
 
@@ -92,27 +92,29 @@ I started by investigating the growth dynamics of sorghum using a traditional re
 ON-GOING WORK:
 
 More recently, I realized the importance of finding new solutions to the key bottleneck of deep learning models requiring large annotated datasets to learn from. My current work on this topic includes:
-   1.	development of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.       This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has been    achieved in partnership with an undergraduate in the UIUC double major program in Computer Science + Crop Science. I mentored him through winning a summer research fellowship form the American Society for Plant Biologists, completing his thesis research, and getting an internship at Corteva.
 
-     	[Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
+   1.	Development of a multi-head CNN learning strategy for determining critical traits in miscanthus using aerial imagery. The goal here is to determine the level of transfer learning ability of the network between traits as a path to alleviate data collection on expensive traits versus more easily accessible ones.           This involves testing how much compensation in the predictive ability of the multi-head network occurs for each trait (i.e., yield, height, stem number and stem diameter of plants) when access to the ground-truth labels of each single trait is restricted but not for the other traits in the model. This project has 
+      been achieved in partnership with an undergraduate in the UIUC double major program in Computer Science + Crop Science. I mentored him through winning a summer research fellowship form the American Society for Plant Biologists, completing his thesis research, and getting an internship at Corteva.
+
+   [Link to Repository](https://github.com/pixelvar79/SURF-Summer-Project-Multilearning-Strategy)
 
 <p align="center">
    <img src="papers/Screenshot 2024-05-03 073833.png" width="400" height="300">
 </p>
 
-   2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious               requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which        can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes.   Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the     need for human labelling by months.
+   2.	Integration of Autoencoders as a transfer learning strategy to assist semantic segmentation when assessing root traits from underground imagery. The goal here is to alleviate the need for manual annotation of roots in the images take from minirhizotrons, which is normally an essential but very laborious                  requirement when training a segmentation model (example figure below). The initial hypothesis is that when an Autoencoder is being trained (i.e., unsupervised) for reconstructing root imageries, it should learn the salient features of the image. Those features can then be transferred to a segmentation model which        can then exploit them for training, and in doing so drastically cut the need for manual labeling of images for training purposes. Preliminary results are encouraging, with the pretrained segmentation model being able perform equivalent while requiring 40% less manual training data. This corresponds to reducing the       need for human labelling by months.
 
 <p align="center">
    <img src="papers/Picture2.jpg" width="400" height="300">
 </p>
 
-   3.	Development of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning       strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted        from the manuscript. A provisional patent application on this work is currently being prepared.
+   3.	Implementation of a Generative and Adversarial learning strategy to break the bottleneck of labeled data to train an image classification tool, using assessment of flowering time in Miscanthus as a case study.  In the paper currently under review at PNAS, I demonstrated that the generative and adversarial learning       strategy allowed two orders of magnitude less training data to be used than for traditional fully supervised learning strategies without loss of accuracy. As a side effect, the GAN is progressively increasing its own ability to generate realistic representation of images as shown in the left side figure extracted        from the manuscript. A provisional patent application on this work is currently being prepared.
     
 <p align="center">
    <img src="papers/Picture3.jpg" width="400" height="300">
 </p>
 
-FUTURE:
+FUTURE DIRECTION:
 
 1.	Continue accelerating the adoption of AI techniques that enhance generalization and reduce the need for manual supervision. In particular, I plan to test methods for the efficient integration of Autoencoders, Generative Adversarial Networks (GANs), Diffusion Models, and recent foundation models like the Segment Anything Model (SAM) and Large Language Models (LLMs) to drive solutions in agriculture research. This will include studying an end-to-end CNN learning strategy that directly learns target traits to simplify the scalability of the process. I anticipate that Diffusion Models and GAN strategies can more broadly aid in generating synthetic data for more efficient solutions to classification tasks (e.g., flowering detection, lodging detection, plant disease) and segmentation problems. So, building on my initial success in this area is a promising priority. Large Language Models (LLMs) are currently applied in domains such as healthcare, where they are fine-tuned for specific tasks and used as chat-bot assistants. I believe a compelling case for funding can be made to test parallel application of LLMs in agriculture. One priority will be to find suitable collaborators that can help me explore considerations such as data privacy and intellectual property as part of this process.
    
