@@ -158,7 +158,7 @@ One on-going project I lead in this area focuses on reducing information gaps by
 
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
     <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
     <img src="papers/Picture4.jpg" style="width: 400px; height: 300px;">
 </div>
@@ -168,7 +168,7 @@ Another project where I am facilitating a transition from use of traditional app
 [Link to Repository](https://github.com/pixelvar79/GEE_CABBI)
 
 <p align="center">
-   <img src="papers/Picture5.jpg" width="400" height="600">
+   <img src="papers/Picture5.jpg" width="400" height="500">
 </p>
 
 FUTURE:
