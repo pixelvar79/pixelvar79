@@ -158,9 +158,10 @@ One on-going project I lead in this area focuses on reducing information gaps by
 
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
-<p align="center">
-   <img src="papers/Picture4.jpg" width="400" height="300">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
+    <img src="papers/Picture4.jpg" style="width: 400px; height: 300px;">
+</div>
 
 Another project where I am facilitating a transition from use of traditional approaches into modern data science approaches involves agroecosystem modelers in CABBI. This project aims to identify optimal sample locations for monitoring below-above resource allocation in plants in farm fields, with the end goal of improving agroecosystem models parametrization and long-term indicators of sustainability in these systems (figure below). Traditionally, locations selection for sampling has relied on random distributions in fields. While this represents a practical and simplified solution, it may not consider the spatial variability in factors such as topography and soil characteristics that influence plant allocation across the landscape, which can then bias parameters in models and sustainability metrics across the landscape. I overcame this limitation by developing an automated pipeline that exploits cloud storage services of satellite imagery such as Google Earth Engine (GEE) and Planet. Instead of the traditional GEE Javascript Web Interface, I used the GEE Python API, reducing manual supervision and accelerating automation. Users are only required to provide inputs such as field boundaries, satellite processing level, date range, and cloud cover. The pipeline: (1) generates a vegetation index at the pixel level for each farm field, (2) determines inter-year above-ground productivity stability and (3) groups pixels in to subfield areas of similar crop function, as shown in the previous figure. Sampling can then be targeted to most efficiently capture the heterogeneity across and within fields. This approach was used to plan sampling of soil carbon across commercial plantings of Miscanthus this spring.
 
