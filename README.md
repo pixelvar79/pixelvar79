@@ -2,7 +2,9 @@
 
 🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation (CABBI), University of Illinois Urbana-Champaign 
 
+<div style="display: flex; justify-content: center;">
 📧 sebavar79@gmail.com | 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ)
+</div>
 
 In a world increasingly dominated by data footprints, agriculture researchers can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
 them with field-level measurements to address questions that were seemingly impossible to answer only a short time ago. Research that integrates sensors, data-intensive analysis, and Artificial Intelligence (AI) 
