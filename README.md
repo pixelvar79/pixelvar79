@@ -158,7 +158,7 @@ One on-going project I lead in this area focuses on reducing information gaps by
 
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 10 auto;">
     <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
     <img src="papers/Picture4.jpg" style="width: 400px; height: 300px;">
 </div>
