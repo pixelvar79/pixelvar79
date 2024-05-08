@@ -171,7 +171,7 @@ Another project where I am facilitating a transition from use of traditional app
 [Link to Repository](https://github.com/pixelvar79/GEE_CABBI)
 
 <p align="center">
-   <img src="papers/Picture5.jpg" width="400" height="500">
+   <img src="papers/Picture5.jpg" width="500" height="600">
 </p>
 
 FUTURE:
