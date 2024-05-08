@@ -1,6 +1,6 @@
 ### Sebastian Varela, Ph.D.
 
-🔬 Researcher for the Center for Advanced Bioenergy and Biofuel Innovation (CABBI), University of Illinois Urbana-Champaign 
+🔬 Scientist 
 
 <p align="center">
   📧 <a href="mailto:sebavar79@gmail.com">sebavar79@gmail.com</a> | 📚 <a href="https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ">Google Scholar</a>
