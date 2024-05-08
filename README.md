@@ -6,7 +6,7 @@
   📧 <a href="mailto:sebavar79@gmail.com">sebavar79@gmail.com</a> | 📚 <a href="https://scholar.google.com/citations?hl=en&user=7VElQ60AAAAJ">Google Scholar</a>
 </p>
 
-In a world increasingly dominated by data footprints, agriculture researchers can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
+In a world increasingly dominated by data footprints, we can now use streams of data from diverse digital resources, ranging from underground proximal sensors to satellites, and pair 
 them with field-level measurements to address questions that were seemingly impossible to answer only a short time ago. Research that integrates sensors, data-intensive analysis, and Artificial Intelligence (AI) 
 while being driven by sound principles of plant and soil science are key to advancing agricultural science.
 
