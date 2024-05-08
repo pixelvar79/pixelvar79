@@ -201,4 +201,4 @@ I propose to further develop methods for multiscale integration of analytical pi
 ---
 
 ## Fun Fact
-- Love my dogs and with high expectations to be a good soccer player.
+- I love my dogs and have high expectations of becoming a good soccer player.
