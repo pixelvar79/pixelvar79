@@ -162,7 +162,7 @@ One on-going project I lead in this area focuses on reducing information gaps by
 [Link to Repository](https://github.com/pixelvar79/GxE-geospatial)                    
 
 
-[Link to the AgroPolygonExtractorpy Repository](https://github.com/pixelvar79/AgriPolygonExtractorpy)  
+[Link to the AgroPolygonExtractorpy Repository](https://github.com/pixelvar79/AgriPolygonCreatorpy)  
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/87BZEx0QKnA/0.jpg)](https://www.youtube.com/watch?v=87BZEx0QKnA)
