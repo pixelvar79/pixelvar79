@@ -159,7 +159,10 @@ One on-going project I lead in this area focuses on reducing information gaps by
   Initial results indicate distinctive temporal trajectories for the same genetic materials across locations, suggesting the potential use of aerial imagery to anticipate decisions, reduce costs, and understand
   genotype-by-environment interactions in breeding programs.
 
-[Link to Repository](https://github.com/pixelvar79/GxE-geospatial)
+[Link to Repository](https://github.com/pixelvar79/GxE-geospatial)                    [Link to AgroPolygonExtractorpy Repository](https://img.youtube.com/vi/87BZEx0QKnA/0.jpg)](https://www.youtube.com/watch?v=87BZEx0QKnA)
+
+
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="papers/Picture1.png" style="width: 400px; height: 300px;">
